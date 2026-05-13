@@ -64,7 +64,7 @@ financial-earnings-assistant/
 │   │   └── query_dataset.py      # 200+ financial queries
 │   ├── models/
 │   │   ├── request.py            # Pydantic request models
-│   │   └── response.py           # Pydantic response models
+│   │   └── response.py           # Pydantic response model
 │   └── main.py                   # FastAPI app entrypoint
 ├── data/
 │   ├── raw/                      # Downloaded SEC filings
